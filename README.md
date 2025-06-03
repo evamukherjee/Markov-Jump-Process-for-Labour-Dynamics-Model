@@ -20,3 +20,7 @@ The model allows for transitions between all pairs of these states. For an indiv
 * $\lambda_{OU}$: Rate of entering unemployment from out of the labor force (O $\to$ U)
 
 The holding time in each state $i$ before a transition occurs is exponentially distributed with rate $q_i = \sum_{j \neq i} \lambda_{ij}$.
+
+### Authors:
+- Eva Mukherjee
+- Maria Joseph
